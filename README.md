@@ -1,3 +1,8 @@
+## the purpose of le forke  
+i edited all the templates to change background colors of the manga pages.  
+  
+i will later add keyboard shortcuts and better image display (just fit in screen lol)
+
 # StaticMangaReader
 
 Used to Generate some basic html/javascript to read manga from a static website. The resulting files can be used in any sort of static web hosting provider or viewed locally from your computer.
