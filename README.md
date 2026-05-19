@@ -1,7 +1,6 @@
 ## the purpose of le forke  
-i edited all the templates to change background colors of the manga pages.  
-  
-i will later add keyboard shortcuts and better image display (just fit in screen lol)
+changed background, text and link colors to darkish mode!  
+also added keyboard shortcuts and fixed zoom out! 
 
 # StaticMangaReader
 
